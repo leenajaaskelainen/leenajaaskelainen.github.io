@@ -1,0 +1,9 @@
+title: Leena Jääskeläinen
+safe: true
+lsi: false
+highlighter: rouge
+markdown: kramdown
+baseurl: ""
+sass:
+    style: compressed
+    sass_dir: css
