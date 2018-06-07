@@ -81,7 +81,6 @@ People on the film: Eppu Saarela, Nasim Nasu Shamlou-Juhola, Moms Bah,
 Bettina Gräsbeck and Hans Rohila.
 
 <iframe src="https://player.vimeo.com/video/245196217" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/245196217">Building Art History</a> from <a href="https://vimeo.com/animaatiokopla">Osuuskunta Animaatiokopla</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![](index_html_946642063dda20ac.jpg){: .img-fluid}
 
@@ -123,6 +122,7 @@ the director and the musical composer of this film hold a black belt in
 aikido!
 
 <iframe src="https://player.vimeo.com/video/214458568?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ![](index_html_6f75e6fe25e7d4ba.jpg){: .img-fluid}
 
 ![](index_html_43c761cbd4d7ef07.jpg){: .img-fluid}
