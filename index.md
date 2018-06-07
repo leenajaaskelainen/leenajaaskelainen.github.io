@@ -3,14 +3,6 @@ layout: default
 title: "Leena Jääskeläinen"
 ---
 
-[leena@animaatiokopla.fi](mailto:leena@animaatiokopla.fi)
-
-+358 50 547 9775
-
-Media Art by
-
-# LEENA JÄÄSKELÄINEN
-
 ## Out Of Body Experience
 
 *Out of Body Experience* is an art work to be experienced in a virtual
@@ -88,7 +80,8 @@ they spend a lot of time in.
 People on the film: Eppu Saarela, Nasim Nasu Shamlou-Juhola, Moms Bah,
 Bettina Gräsbeck and Hans Rohila.
 
-<https://vimeo.com/245196217>
+<iframe src="https://player.vimeo.com/video/245196217" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/245196217">Building Art History</a> from <a href="https://vimeo.com/animaatiokopla">Osuuskunta Animaatiokopla</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![](index_html_946642063dda20ac.jpg){: .img-fluid}
 
@@ -129,8 +122,7 @@ judo. Best of both worlds? It might not be just a coincidence, that both
 the director and the musical composer of this film hold a black belt in
 aikido!
 
-<https://vimeo.com/214458568>
-
+<iframe src="https://player.vimeo.com/video/214458568?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![](index_html_6f75e6fe25e7d4ba.jpg){: .img-fluid}
 
 ![](index_html_43c761cbd4d7ef07.jpg){: .img-fluid}
@@ -165,7 +157,7 @@ are clearly seen in the high point of the film, the dance scene. The
 middle-aged Erja is precise and sure, the young Erja is a little clumsy
 but energetic. Both filled with joy and happiness in the end.
 
-<https://vimeo.com/98132313>
+<iframe src="https://player.vimeo.com/video/98132313" width="640" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ![](index_html_2f2f67c440ff785d.jpg){: .img-fluid}
 
