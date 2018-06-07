@@ -7,3 +7,5 @@ baseurl: ""
 sass:
     style: compressed
     sass_dir: css
+
+theme: jekyll-theme-minimal
