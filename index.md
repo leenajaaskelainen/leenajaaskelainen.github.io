@@ -157,7 +157,7 @@ aikido!
 
 ## In love with Amelia Earhart
 
-Animation short film, 2017
+Animation short film, 2014
 
 *In love with Amelia Earhart* is a light-hearted short film about the
 contradiction between youthful enthusiasm and mature realism. In the
