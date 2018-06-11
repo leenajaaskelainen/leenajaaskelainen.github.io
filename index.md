@@ -34,6 +34,8 @@ Sound design by Janne Laine
 
 ## Blue sky on Mars
 
+Experimental animation documentary, 2018
+
 Scientist Sini Merikallio talks about science fiction in the
 experimental documentary *Blue sky on Mars.*
 
@@ -75,6 +77,8 @@ Password: blue
 
 ## Building Art History
 
+Experimental documentary, 2017
+
 *Building Art History* is an experimental documentary film about the
 ideal body throughout history. In ancient Greece athletes were carved
 out of marble, in the times of renaissance fabulous frescos were
@@ -114,6 +118,8 @@ Bettina Gräsbeck and Hans Rohila.
 
 ## Contact!
 
+Experimental animation film, 2017
+
 *Contact!* is an experimental animation film about movement and meeting.
 It explores differences and similarities between dancing and martial
 arts aikido and judo. The technique is hand painted digital animation.
@@ -150,6 +156,8 @@ aikido!
 ![](index_html_988c602c0cd2d0e.jpg){: .img-fluid}
 
 ## In love with Amelia Earhart
+
+Animation short film, 2017
 
 *In love with Amelia Earhart* is a light-hearted short film about the
 contradiction between youthful enthusiasm and mature realism. In the
