@@ -5,12 +5,32 @@ title: "Leena Jääskeläinen"
 
 ## Out Of Body Experience
 
+Virtual art work, 2018
+
 *Out of Body Experience* is an art work to be experienced in a virtual
 reality environment. It combines interviews about body image to an
 abstract, dreamlike landscape created in a 3D-program. The result is
 intimate, atmospheric and meditational. In virtual reality, one doesn\'t
 in a sense have a body. *Out of Body Experience* utilizes this feeling
 of detachment.
+
+*Out of Body Experience* will be exhibited as a part of Kotka Art annual art show during summer of 2018 in Kotka. 
+
+“ My body causes some confusion in people. They are thinking whether I'm male or female, and sometimes they try to harrass me or mock me, or misgender me on purpose.”
+
+“ My real body is my skeleton.”
+
+“ When I was thin, it was so important to me, that I once said that I'd rather be dead than fat. I meant it. A little embarrasing now.”
+
+“ I really wanna have a mustache. God damn, gosh darn, I love mustaches, but I can't have it, cause I have only like a few dark hairs above my lip, and that's it!”
+
+Written, directed and designed by Leena Jääskeläinen
+
+Animation and modelling by Auli Nikkanen
+
+Coding by Johannes Päivinen
+
+Sound design by Janne Laine
 
 ## Blue sky on Mars
 
