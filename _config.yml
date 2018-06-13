@@ -8,4 +8,4 @@ sass:
     style: compressed
     sass_dir: css
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
