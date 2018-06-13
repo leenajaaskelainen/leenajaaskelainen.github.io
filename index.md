@@ -32,6 +32,14 @@ Coding by Johannes Päivinen
 
 Sound design by Janne Laine
 
+![](ruumis_1.png){: .img-fluid}
+
+![](ruumis_6.png){: .img-fluid}
+
+![](ruumis_7.png){: .img-fluid}
+
+![](ruumis_12.png){: .img-fluid}
+
 ## Blue sky on Mars
 
 Experimental animation documentary, 2018
@@ -63,17 +71,13 @@ Lauri Neuvonen.
 
 Password: blue
 
-![](index_html_b2947c78ed6e2465.jpg){: .img-fluid}
+![](Sini8.jpg){: .img-fluid}
 
-![](index_html_d7baca1bda1b736f.jpg){: .img-fluid}
+![](Sini7.jpg){: .img-fluid}
 
-![](index_html_d6cb491cfdcd0b2f.jpg){: .img-fluid}
+![](Sini13.jpg){: .img-fluid}
 
-![](index_html_107ade18dc7cdec5.jpg){: .img-fluid}
-
-![](index_html_a2ebe28b876e3e61.jpg){: .img-fluid}
-
-![](index_html_c13bcf00fc2cd48c.jpg){: .img-fluid}
+![](Sini12.jpg){: .img-fluid}
 
 ## Building Art History
 
