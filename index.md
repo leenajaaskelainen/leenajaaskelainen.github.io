@@ -16,13 +16,13 @@ of detachment.
 
 *Out of Body Experience* will be exhibited as a part of Kotka Art annual art show during summer of 2018 in Kotka. 
 
-“ My body causes some confusion in people. They are thinking whether I'm male or female, and sometimes they try to harrass me or mock me, or misgender me on purpose.”
+> My body causes some confusion in people. They are thinking whether I'm male or female, and sometimes they try to harrass me or mock me, or misgender me on purpose.
 
-“ My real body is my skeleton.”
+> My real body is my skeleton.
 
-“ When I was thin, it was so important to me, that I once said that I'd rather be dead than fat. I meant it. A little embarrasing now.”
+> When I was thin, it was so important to me, that I once said that I'd rather be dead than fat. I meant it. A little embarrasing now.
 
-“ I really wanna have a mustache. God damn, gosh darn, I love mustaches, but I can't have it, cause I have only like a few dark hairs above my lip, and that's it!”
+> I really wanna have a mustache. God damn, gosh darn, I love mustaches, but I can't have it, cause I have only like a few dark hairs above my lip, and that's it!
 
 Written, directed and designed by Leena Jääskeläinen
 

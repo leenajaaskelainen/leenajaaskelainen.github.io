@@ -11,3 +11,7 @@ h2 {
 footer {
   margin: 2em 0;
 }
+blockquote p:before,
+blockquote p:after {
+  content: '"';
+} 
