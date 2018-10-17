@@ -14,7 +14,7 @@ intimate, atmospheric and meditational. In virtual reality, one doesn\'t
 in a sense have a body. *Out of Body Experience* utilizes this feeling
 of detachment.
 
-*Out of Body Experience* will be exhibited as a part of Kotka Art annual art show during summer of 2018 in Kotka. 
+*Out of Body Experience* was exhibited as a part of Kotka Art annual art show during the summer of 2018 in Kotka. The art work provided many art show guests with a first time experience of virtual reality as a technology, and was very well received.
 
 > My body causes some confusion in people. They are thinking whether I'm male or female, and sometimes they try to harrass me or mock me, or misgender me on purpose.
 
