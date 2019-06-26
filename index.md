@@ -3,6 +3,18 @@ layout: default
 title: "Leena Jääskeläinen"
 ---
 
+<div class="jumbotron">
+##Can I interview you? For art!
+
+I am making a virtual reality art project based on people's experiences. The recorded stories will be presented within a dreamlike, surreal virtual reality environment. The themes I am interested in hearing about are body image, strong emotions and pursuing the impossible, whether succeeding in it or not.
+
+As an artist, my approach is always considerate and polite. I will not use any material without your permission. I will respect your boundaries, and you will always have the right to change your mind. If you wish, I can use the help of voice actors to anonymize your story.
+
+Will you take part in the project? [Fill out these questions](https://forms.gle/F913eJfAH7mxcs5Q8), and you will hear more from me in a bit!
+
+[![](some1_B.jpg){: .img-fluid}](https://forms.gle/F913eJfAH7mxcs5Q8)
+</div>
+
 ## Out Of Body Experience
 
 Virtual art work, 2018
