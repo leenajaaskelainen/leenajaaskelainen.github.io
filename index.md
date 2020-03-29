@@ -12,24 +12,25 @@ PARANORMAL PHENOMENA was exhibited in the Helsinki MUU Cable gallery from Februa
 
 Paranormal Phenomena consists of three parts, each to be experienced in virtual reality. In the artwork interviews of people are combined with a strange, dreamlike environment. The thirteen people who were interviewed spoke about their feelings of love or rage, about strong body dysmorphia and deep satisfaction with themselves. Emotions, physicality and body are central.
 
-Each part of the artwork is a world of it’s own, with the stories attached to different elements. The esthetics of the artwork is derived from the airbrushed 80’s scifi visions. Living spaceships, glass fibre rocks and pulsating crystals. It was important to me to make the worlds approachable by adding some hand-crafted feel and humour. I knew that for the majority of the gallery-goers Paranormal Phenomena would be their first time in virtual reality, so I wanted to make sure the experience is warm and non-threatening. 
+Each part of the artwork is a world of it’s own, with the stories attached to different elements. The esthetics of the artwork is derived from the airbrushed 80’s scifi visions. Living spaceships, glass fibre rocks and pulsating crystals. It was important to me to make the worlds approachable by adding some hand-crafted feel and humour. I knew that for the majority of the gallery-goers Paranormal Phenomena would be their first time in virtual reality, so I wanted to make sure the experience is warm and non-threatening.
 
 The first part, OUT OF BODY EXPERIENCE deals with body image and issues. It’s environment is something like a candy-colored outer space. The atmosphere, depending on the story, can be either melancholic or cheerful. An earlier version of this piece was seen in Kotka Art 2018.
 
 ![](Paranormal_Phenomena/image5.jpg){: .img-fluid}
 
-Part two,  SPONTANEOUS COMBUSTION is about strong inflammable emotions. Rage, love, wish for death. It is a cave, echoing of mysterious tunes and voices. Hidden in a ruby-crystal chamber, a powerful, personal poem by Dorina Owindi can be found. 
+Part two,  SPONTANEOUS COMBUSTION is about strong inflammable emotions. Rage, love, wish for death. It is a cave, echoing of mysterious tunes and voices. Hidden in a ruby-crystal chamber, a powerful, personal poem by Dorina Owindi can be found.
 
 ![](Paranormal_Phenomena/image1.jpg){: .img-fluid}
 
-The third part, MIND OVER MATTER voices out extreme experiences. What is difficult for the body? What about the mind? The landscape of this part is a bottom of the sea on another planet, with alien plant life. The stories of interviewed people swim in deep waters at times. 
+The third part, MIND OVER MATTER voices out extreme experiences. What is difficult for the body? What about the mind? The landscape of this part is a bottom of the sea on another planet, with alien plant life. The stories of interviewed people swim in deep waters at times.
 
 ![](Paranormal_Phenomena/image6.jpg){: .img-fluid}
 
-For the exhibition at MUU Cable the gallery space was divided into four parts by a custom made steel frame. Recycled transparent acrylic, carpeting and tarpaulin, were hung from the frame. The colors were neutral; black, grey, wood, steel and dirty white. This aimed both to create a contrast between the somewhat dreary gallery space and the vividly colorful virtual space, and to give some privacy to people using VR-glasses. 
-The elements of the virtual worlds of Paranormal Phenomena were sculpted in MasterpieceVR, animated in Blender and programmed in Unity. At the gallery there were three sets of OculusQuest and one set of HTCVive.
-Directed, written and designed by Leena Jääskeläinen; sound design by Janne Laine; programming, animating and compositing by Alex Savander; additional programming by Johannes Päivinen; additional animating by Auli Nikkanen; exhibition structures by Marja Zilcher.
+For the exhibition at MUU Cable the gallery space was divided into four parts by a custom made steel frame. Recycled transparent acrylic, carpeting and tarpaulin, were hung from the frame. The colors were neutral; black, grey, wood, steel and dirty white. This aimed both to create a contrast between the somewhat dreary gallery space and the vividly colorful virtual space, and to give some privacy to people using VR-glasses.
 
+The elements of the virtual worlds of Paranormal Phenomena were sculpted in MasterpieceVR, animated in Blender and programmed in Unity. At the gallery there were three sets of OculusQuest and one set of HTCVive.
+
+Directed, written and designed by Leena Jääskeläinen; sound design by Janne Laine; programming, animating and compositing by Alex Savander; additional programming by Johannes Päivinen; additional animating by Auli Nikkanen; exhibition structures by Marja Zilcher.
 
 ![](Paranormal_Phenomena/image8.jpg){: .img-fluid}
 
