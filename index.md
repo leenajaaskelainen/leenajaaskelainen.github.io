@@ -8,7 +8,7 @@ Virtual reality installation, 2020
 
 ![](Paranormal_Phenomena/image3.jpg){: .img-fluid}
 
-<iframe src="https://player.vimeo.com/video/402864173" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/402864173" width="640" height="432" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 PARANORMAL PHENOMENA was exhibited in the Helsinki MUU Cable gallery from February 28th to March the 17th. Unfortunately the exhibition time was cut short because of the COVID-19 pandemic.
 
