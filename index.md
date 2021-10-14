@@ -3,6 +3,30 @@ layout: default
 title: "Leena Jääskeläinen"
 ---
 
+## Making Art In My Dreams
+
+Virtual Reality experience, in development 2021
+
+Making Art In My Dreams will feature artists from different fields, presenting them in wildly illustrated scenarios. At the core is the relationship between creative work and dreaming. 
+Artists both dream about their projects, and base their work on their dreams. Within this art work,  each  artist will have their own individual dreamworld, to reflect the dreamers personality, and artistic work. 
+When completed, this experience will be almost like seeing someone else's dreams in VR. And on top of that, have fun and play!
+
+<iframe src="https://player.vimeo.com/video/463022706" width="640" height="432" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Currently Making Art In My Dreams is at the development stage, with kind support from AVEK, the Promotion Centre for Audiovisual Culture.
+The project also took part in the prestigious Anidox:LAB in 2020.
+
+Paranormal Phenomena, revisited
+
+Virtual Reality installation, 2020/2021
+
+An improved version of Paranormal Phenomena was exhibited in the atmospheric Pesula Gallery in Sipoo on January 2021. The opening was cancelled due to a snow storm, but exhibition was a succes nonetheless, providing lots of visitors with a first experience in virtual reality. 
+Since the previous exhibition the user interface had been slightly improved, and  people's stories were presented also as text in addition to audio. This was done to improve accessibility.
+Paranormal Phenomena exhibition at Pesula Gallery also included new augmented reality elements by Auli Nikkanen.
+
+![](julistekuva_Paranormaalit ilmiöt_pieni.jpg){: .img-fluid}
+
+
 ## Paranormal Phenomena
 Virtual reality installation, 2020
 
