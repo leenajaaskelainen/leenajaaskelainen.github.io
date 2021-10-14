@@ -34,15 +34,11 @@ The elements of the virtual worlds of Paranormal Phenomena were sculpted in Mast
 
 Directed, written and designed by Leena Jääskeläinen; sound design by Janne Laine; programming, animating and compositing by Alex Savander; additional programming by Johannes Päivinen; additional animating by Auli Nikkanen; exhibition structures by Marja Zilcher.
 
-![](Paranormal_Phenomena/image8.jpg){: .img-fluid}
-
 ![](Paranormal_Phenomena/image2.jpg){: .img-fluid}
 
 ![](Paranormal_Phenomena/image4.jpg){: .img-fluid}
 
 ![](Paranormal_Phenomena/image9.jpg){: .img-fluid}
-
-![](Paranormal_Phenomena/image7.jpg){: .img-fluid}
 
 ## Out Of Body Experience
 
