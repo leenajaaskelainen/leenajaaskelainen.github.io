@@ -16,7 +16,7 @@ When completed, this experience will be almost like seeing someone else's dreams
 Currently Making Art In My Dreams is at the development stage, with kind support from AVEK, the Promotion Centre for Audiovisual Culture.
 The project also took part in the prestigious Anidox:LAB in 2020.
 
-Paranormal Phenomena, revisited
+## Paranormal Phenomena, revisited
 
 Virtual Reality installation, 2020/2021
 
