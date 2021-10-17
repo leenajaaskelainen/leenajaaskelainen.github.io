@@ -26,6 +26,11 @@ Paranormal Phenomena exhibition at Pesula Gallery also included new augmented re
 
 ![](julistekuva_Paranormaalit ilmiöt_pieni.jpg){: .img-fluid}
 
+Poster image, Paranormal Phenomena.
+
+![](IMG_20210116_130726__01.jpg){: .img-fluid}
+
+![](IMG_20210117_123853__01.jpg){: .img-fluid}
 
 ## Paranormal Phenomena
 Virtual reality installation, 2020
