@@ -15,3 +15,7 @@ blockquote p:before,
 blockquote p:after {
   content: '"';
 } 
+img {
+  @extend .img-fluid, .mx-auto, .d-block;
+  max-height: 100vh;
+}
