@@ -5,7 +5,7 @@ title: "Leena Jääskeläinen"
 
 ## Making Art In My Dreams
 
-Virtual Reality experience, in development 2021
+Virtual Reality experience, in development 2022.
 
 Making Art In My Dreams will feature artists from different fields, presenting them in wildly illustrated scenarios. At the core is the relationship between creative work and dreaming. 
 Artists both dream about their projects, and base their work on their dreams. Within this art work,  each  artist will have their own individual dreamworld, to reflect the dreamers personality, and artistic work. 
@@ -13,7 +13,7 @@ When completed, this experience will be almost like seeing someone else's dreams
 
 <iframe src="https://player.vimeo.com/video/463022706?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams -teaser"></iframe>
 
-Currently Making Art In My Dreams is at the development stage, with kind support from AVEK, the Promotion Centre for Audiovisual Culture.
+Currently Making Art In My Dreams is at the development stage. It made history by landing development support from the Finnish Film Foundation, as the first VR-project ever. Earlier Making Art In My Dreams has received funding from AVEK, the Promotion Centre for Audiovisual Culture. A demo-version is available for OculusQuest and HTC Vive.
 The project also took part in the prestigious Anidox:LAB in 2020.
 
 ## Paranormal Phenomena, revisited
