@@ -5,10 +5,53 @@ title: "Leena Jääskeläinen"
 
 ## Making Art In My Dreams
 
-Virtual Reality experience, in development 2022.
+![Making Art In My Dreams poster](MAIMD.jpg){: .img-fluid}
 
-Making Art In My Dreams will feature artists from different fields, presenting them in wildly illustrated scenarios. At the core is the relationship between creative work and dreaming. 
-Artists both dream about their projects, and base their work on their dreams. Within this art work,  each  artist will have their own individual dreamworld, to reflect the dreamers personality, and artistic work. 
+Sneak-Peek at Oodi Kuutio November 24th – December 7th 2022
+
+In virtual reality, almost like in someone else's dream!
+
+The virtual reality artwork Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024. Good things are worth waiting for, but luckily a sneak-peek is available much much sooner. Welcome!
+
+What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a virtual reality experience. These people have found a shortcut to creativity: Going into their dreams, and coming back with art.
+
+<iframe src="https://player.vimeo.com/video/766508027?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="554" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams preview"></iframe>
+
+Arina Baranova is at the beginning of her career as a visual and performance artist. She has had periods of time, when she bases all of her drawings on her dreams. Sometimes, if she feels stuck with a picture, she takes a break, and sees a solution the next night.
+
+Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a composer of electronic music, she also does illustrations, and is a skilled 3D-modeller. Susanna's dreams are filled with sounds and tunes, and she incorporates them in her music.
+
+Donna Owindi is a writer, poet and natural healer. She believes that dreams teach valuable lessons, and it is important to remember them. That is one reason she keeps a dream diary. The other one is that she feels dream journaling helps her artistry.
+
+|   |   |
+|---|---|
+| Written and directed by: | Leena Jääskeläinen |
+| Producer: | Marko Tandefelt |
+| Content: | Baranova, Owindi ja Viljanmaa |
+| Programming: | Alex Savander |
+| Sound Design: | Janne Laine |
+| Production company: | Animaatiokopla |
+
+### Open hours
+
+|   |   |
+|---|---|
+| Wed 23.11.2022 | 17.00–19.00 opening |
+| Thu 24.11.2022 | 8.00–12.00 |
+| Fri–Sun 25.–27.2022 | 11.00–14.00 and 15.00–18.00 |
+| Mon 28.11.2022 | 13.00–16.00 and 17.00–20.00 |
+| Tue 29.11.2022 | 11.00–14.00 and 15.00–18.00 |
+| Wed 30.11.2022 | 11.00–14.00 and 15.00–18.00 |
+| Thu 1.12.2022 | 8.00–12.00 |
+| Fri–Sun 2.–4.12.2022 | 11.00–14.00 and 15.00–18.00 |
+| Mon 5.12.2022 | 13.00–16.00 and 17.00–20.00 |
+| Tue 6.12.2022 | 11.00–14.00 and 15.00–18.00 |
+| Wed 7.12.2022 | 11.00–14.00 |
+
+## Virtual Reality experience, in development 2022
+
+Making Art In My Dreams will feature artists from different fields, presenting them in wildly illustrated scenarios. At the core is the relationship between creative work and dreaming.
+Artists both dream about their projects, and base their work on their dreams. Within this art work,  each  artist will have their own individual dreamworld, to reflect the dreamers personality, and artistic work.
 When completed, this experience will be almost like seeing someone else's dreams in VR. And on top of that, have fun and play!
 
 <iframe src="https://player.vimeo.com/video/463022706?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams -teaser"></iframe>
@@ -20,7 +63,7 @@ The project also took part in the prestigious Anidox:LAB in 2020.
 
 Virtual Reality installation, 2020/2021
 
-An improved version of Paranormal Phenomena was exhibited in the atmospheric Pesula Gallery in Sipoo on January 2021. The opening was cancelled due to a snow storm, but exhibition was a succes nonetheless, providing lots of visitors with a first experience in virtual reality. 
+An improved version of Paranormal Phenomena was exhibited in the atmospheric Pesula Gallery in Sipoo on January 2021. The opening was cancelled due to a snow storm, but exhibition was a succes nonetheless, providing lots of visitors with a first experience in virtual reality.
 Since the previous exhibition the user interface had been slightly improved, and  people's stories were presented also as text in addition to audio. This was done to improve accessibility.
 Paranormal Phenomena exhibition at Pesula Gallery also included new augmented reality elements by Auli Nikkanen.
 
