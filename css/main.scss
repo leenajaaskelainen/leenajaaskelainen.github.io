@@ -8,6 +8,9 @@ header {
 h2 {
   margin-top: 2em;
 }
+h3 {
+  margin-top: 1em;
+}
 footer {
   margin: 2em 0;
 }
@@ -18,4 +21,10 @@ blockquote p:after {
 img {
   // @extend .img-fluid, .mx-auto, .d-block;
   max-height: 100vh;
+}
+thead {
+  display: none
+}
+td {
+  padding-right: 1em;
 }
