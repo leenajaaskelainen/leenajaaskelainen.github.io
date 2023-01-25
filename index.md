@@ -34,22 +34,6 @@ Donna Owindi is a writer, poet and natural healer. She believes that dreams teac
 | Sound Design: | Janne Laine |
 | Production company: | Animaatiokopla |
 
-### Open hours
-
-|   |   |
-|---|---|
-| Wed 23.11.2022 | 17.00–19.00 opening |
-| Thu 24.11.2022 | 8.00–12.00 |
-| Fri–Sun 25.–27.2022 | 11.00–14.00 and 15.00–18.00 |
-| Mon 28.11.2022 | 13.00–16.00 and 17.00–20.00 |
-| Tue 29.11.2022 | 11.00–14.00 and 15.00–18.00 |
-| Wed 30.11.2022 | 11.00–14.00 and 15.00–18.00 |
-| Thu 1.12.2022 | 8.00–12.00 |
-| Fri–Sun 2.–4.12.2022 | 11.00–14.00 and 15.00–18.00 |
-| Mon 5.12.2022 | 13.00–16.00 and 17.00–20.00 |
-| Tue 6.12.2022 | 11.00–14.00 and 15.00–18.00 |
-| Wed 7.12.2022 | 11.00–14.00 |
-
 ## Virtual Reality experience, in development 2022
 
 Making Art In My Dreams will feature artists from different fields, presenting them in wildly illustrated scenarios. At the core is the relationship between creative work and dreaming.
