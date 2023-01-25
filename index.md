@@ -5,21 +5,23 @@ title: "Leena Jääskeläinen"
 
 ## Making Art In My Dreams
 
-![Making Art In My Dreams poster](MAIMD.jpg){: .img-fluid}
+In virtual reality, almost like in someone else’s dream!
 
-Sneak-Peek at Oodi Kuutio November 24th – December 7th 2022
+Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024.
 
-In virtual reality, almost like in someone else's dream!
+A Sneak-Peek was available at Oodi Kuutio November 24th – December 7th 2022.
 
-The virtual reality artwork Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024. Good things are worth waiting for, but luckily a sneak-peek is available much much sooner. Welcome!
+![Making Art In My Dreams](IMG_20221130_164818.jpg){: .img-fluid}
 
-What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a virtual reality experience. These people have found a shortcut to creativity: Going into their dreams, and coming back with art.
+![Making Art In My Dreams](IMG_20221126_142953.jpg){: .img-fluid}
+
+What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a documentary in virtual reality.
 
 <iframe src="https://player.vimeo.com/video/766508027?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="554" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams preview"></iframe>
 
 Arina Baranova is at the beginning of her career as a visual and performance artist. She has had periods of time, when she bases all of her drawings on her dreams. Sometimes, if she feels stuck with a picture, she takes a break, and sees a solution the next night.
 
-Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a composer of electronic music, she also does illustrations, and is a skilled 3D-modeller. Susanna's dreams are filled with sounds and tunes, and she incorporates them in her music.
+Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a composer of electronic music, she also does illustrations, and is a skilled 3D-modeller. Susanna’s dreams are filled with sounds and tunes, and she incorporates them in her music.
 
 Donna Owindi is a writer, poet and natural healer. She believes that dreams teach valuable lessons, and it is important to remember them. That is one reason she keeps a dream diary. The other one is that she feels dream journaling helps her artistry.
 
