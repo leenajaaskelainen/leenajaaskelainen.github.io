@@ -25,6 +25,12 @@ Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a compos
 
 Donna Owindi is a writer, poet and natural healer. She believes that dreams teach valuable lessons, and it is important to remember them. That is one reason she keeps a dream diary. The other one is that she feels dream journaling helps her artistry.
 
+![Making Art In My Dreams](MAIMD_image1.jpg){: .img-fluid}
+
+![Making Art In My Dreams](MAIMD_image2.jpg){: .img-fluid}
+
+![Making Art In My Dreams](MAIMD_image3.jpg){: .img-fluid}
+
 |   |   |
 |---|---|
 | Written and directed by: | Leena Jääskeläinen |
