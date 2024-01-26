@@ -5,7 +5,7 @@ title: "Artworks by Leena Jääskeläinen"
 
 ## Making Art In My Dreams 
 
-The animated VR-documentary Making Art In My Dreams is now complete! It will be exhibited for audience in [Chappe, Art House By The Sea, at Tammisaari 24.5–15.9.2024](https://chappe.fi/en/exhibition/making-art-in-my-dreams-2/).
+The animated VR-documentary Making Art In My Dreams is now complete! It will be exhibited for the audience in [Chappe, Art House By The Sea, at Tammisaari 24.5–15.9.2024](https://chappe.fi/en/exhibition/making-art-in-my-dreams-2/).
 
 What do artists dream about? Repressed androids, panthers in trees, walking mushrooms - their work. For some people, dreams are a shortcut to creativity. Follow a theremin player, a poet and a visual artist on a wild ride in creative subconscious!
 
@@ -30,13 +30,11 @@ Making Art In My Dreams is an animated documentary experience featuring three am
 
 With kind support from Finnish Film Foundation, AVEK, Aalto Digital Creatives and Finnish Heritage Agency
 
-## Making Art In My Dreams
+## Making Art In My Dreams - A Sneak Peak
 
 In virtual reality, almost like in someone else’s dream!
 
-Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024.
-
-A Sneak-Peek was available at Oodi Kuutio November 24th – December 7th 2022.
+A Sneak-Peek of the animated VR-documentary was available at Oodi Kuutio November 24th – December 7th 2022 after which we entered the production stage.
 
 ![Making Art In My Dreams](IMG_20221130_164818.jpg){: .img-fluid}
 
