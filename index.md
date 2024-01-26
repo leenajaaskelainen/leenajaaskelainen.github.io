@@ -30,7 +30,7 @@ Making Art In My Dreams is an animated documentary experience featuring three am
 
 With kind support from Finnish Film Foundation, AVEK, Aalto Digital Creatives and Finnish Heritage Agency
 
-## Making Art In My Dreams - A Sneak Peak
+## Making Art In My Dreams - A Sneak Peek
 
 In virtual reality, almost like in someone else’s dream!
 
