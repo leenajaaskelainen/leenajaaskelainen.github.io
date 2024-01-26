@@ -3,27 +3,12 @@ layout: default
 title: "Artworks by Leena Jääskeläinen"
 ---
 
-## Making Art In My Dreams
+## Making Art In My Dreams 
 
-In virtual reality, almost like in someone else’s dream!
+The animated VR-documentary Making Art In My Dreams is now complete! It will be exhibited for audience in [Chappe, Art House By The Sea, at Tammisaari 24.5–15.9.2024](https://chappe.fi/en/exhibition/making-art-in-my-dreams-2/).
 
-Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in [Chappe, Art House By The Sea, at Tammisaari 24.5–15.9.2024](https://chappe.fi/en/exhibition/making-art-in-my-dreams-2/).
-
-A Sneak-Peek was available at Oodi Kuutio November 24th – December 7th 2022.
-
-![Making Art In My Dreams](IMG_20221130_164818.jpg){: .img-fluid}
-
-![Making Art In My Dreams](IMG_20221126_142953.jpg){: .img-fluid}
-
-What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a documentary in virtual reality.
-
-<iframe src="https://player.vimeo.com/video/796657438?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="554" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams preview"></iframe>
-
-Arina Baranova is at the beginning of her career as a visual and performance artist. She has had periods of time, when she bases all of her drawings on her dreams. Sometimes, if she feels stuck with a picture, she takes a break, and sees a solution the next night.
-
-Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a composer of electronic music, she also does illustrations, and is a skilled 3D-modeller. Susanna’s dreams are filled with sounds and tunes, and she incorporates them in her music.
-
-Donna Owindi is a writer, poet and natural healer. She believes that dreams teach valuable lessons, and it is important to remember them. That is one reason she keeps a dream diary. The other one is that she feels dream journaling helps her artistry.
+What do artists dream about? Repressed androids, panthers in trees, walking mushrooms - their work. For some people, dreams are a shortcut to creativity. Follow a theremin player, a poet and a visual artist on a wild ride in creative subconscious!
+Making Art In My Dreams is an animated documentary experience featuring three ambitious artists, Arina Baranova, Dorina Owindi and Susanna Viljanmaa. In virtual reality, almost like in someone else’s dream!
 
 ![Making Art In My Dreams](MAIMD_image1.jpg){: .img-fluid}
 
@@ -42,7 +27,38 @@ Donna Owindi is a writer, poet and natural healer. She believes that dreams teac
 | Installation: | Marja Zilcher |
 | Production company: | Animaatiokopla |
 
-With kind support from Finnish Film Foundation, AVEK, Aalto Digital Creatives and Finnish Heritage Agency.
+With kind support from Finnish Film Foundation, AVEK, Aalto Digital Creatives and Finnish Heritage Agency
+
+## Making Art In My Dreams
+
+In virtual reality, almost like in someone else’s dream!
+
+Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024.
+
+A Sneak-Peek was available at Oodi Kuutio November 24th – December 7th 2022.
+
+![Making Art In My Dreams](IMG_20221130_164818.jpg){: .img-fluid}
+
+![Making Art In My Dreams](IMG_20221126_142953.jpg){: .img-fluid}
+
+What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a documentary in virtual reality.
+
+<iframe src="https://player.vimeo.com/video/796657438?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="554" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams preview"></iframe>
+
+Arina Baranova is at the beginning of her career as a visual and performance artist. She has had periods of time, when she bases all of her drawings on her dreams. Sometimes, if she feels stuck with a picture, she takes a break, and sees a solution the next night.
+
+Susanna Viljanmaa is truly a multitalent! She’s a theremin player and a composer of electronic music, she also does illustrations, and is a skilled 3D-modeller. Susanna’s dreams are filled with sounds and tunes, and she incorporates them in her music.
+
+Donna Owindi is a writer, poet and natural healer. She believes that dreams teach valuable lessons, and it is important to remember them. That is one reason she keeps a dream diary. The other one is that she feels dream journaling helps her artistry.
+
+|   |   |
+|---|---|
+| Written and directed by: | Leena Jääskeläinen |
+| Producer: | Marko Tandefelt |
+| Content: | Baranova, Owindi ja Viljanmaa |
+| Programming: | Alex Savander |
+| Sound Design: | Janne Laine |
+| Production company: | Animaatiokopla |
 
 ## Virtual Reality experience, in development 2022
 
