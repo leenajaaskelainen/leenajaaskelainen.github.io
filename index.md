@@ -21,7 +21,7 @@ Making Art In My Dreams is an animated documentary experience featuring three am
 |---|---|
 | Written and directed by: | Leena Jääskeläinen |
 | Producer: | Marko Tandefelt |
-| Content: | Baranova, Owindi ja Viljanmaa |
+| Content: | Baranova, Owindi, and Viljanmaa |
 | Programming: | Alex Savander |
 | Animated by: | Susanna Viljanmaa, Kristina Laine |
 | Sound Design: | Janne Laine |
@@ -40,9 +40,9 @@ A Sneak-Peek of the animated VR-documentary was available at Oodi Kuutio Novembe
 
 ![Making Art In My Dreams](IMG_20221126_142953.jpg){: .img-fluid}
 
-What do artists dream about? Repressed androids, trees full of panthers, surreal cities - their work. And a lot of times their work is influenced by dreams. A theremin player, a painter, and a poet share their inner worlds in a documentary in virtual reality.
-
 <iframe src="https://player.vimeo.com/video/796657438?h=05fabe0811&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="554" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Making Art In My Dreams preview"></iframe>
+
+The documentary features three talented artists from different fields.
 
 Arina Baranova is at the beginning of her career as a visual and performance artist. She has had periods of time, when she bases all of her drawings on her dreams. Sometimes, if she feels stuck with a picture, she takes a break, and sees a solution the next night.
 
@@ -54,7 +54,7 @@ Donna Owindi is a writer, poet and natural healer. She believes that dreams teac
 |---|---|
 | Written and directed by: | Leena Jääskeläinen |
 | Producer: | Marko Tandefelt |
-| Content: | Baranova, Owindi ja Viljanmaa |
+| Content: | Baranova, Owindi, and Viljanmaa |
 | Programming: | Alex Savander |
 | Sound Design: | Janne Laine |
 | Production company: | Animaatiokopla |
