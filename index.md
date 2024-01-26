@@ -7,7 +7,7 @@ title: "Artworks by Leena Jääskeläinen"
 
 In virtual reality, almost like in someone else’s dream!
 
-Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in 2024.
+Leena Jääskeläinen’s documentary in virtual reality Making Art In My Dreams has entered the production stage with the kind support from the Finnish Film Foundation and AVEK Audiovisual Centre. The finalized work will be presented for the audience in [Chappe, Art House By The Sea, at Tammisaari 24.5–15.9.2024](https://chappe.fi/en/exhibition/making-art-in-my-dreams-2/).
 
 A Sneak-Peek was available at Oodi Kuutio November 24th – December 7th 2022.
 
@@ -31,8 +31,12 @@ Donna Owindi is a writer, poet and natural healer. She believes that dreams teac
 | Producer: | Marko Tandefelt |
 | Content: | Baranova, Owindi ja Viljanmaa |
 | Programming: | Alex Savander |
+| Animated by: | Susanna Viljanmaa, Kristina Laine |
 | Sound Design: | Janne Laine |
+| Installation: | Marja Zilcher |
 | Production company: | Animaatiokopla |
+
+With kind support from Finnish Film Foundation, AVEK, Aalto Digital Creatives and Finnish Heritage Agency.
 
 ## Virtual Reality experience, in development 2022
 
