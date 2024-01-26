@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Leena Jääskeläinen"
+title: "Artworks by Leena Jääskeläinen"
 ---
 
 ## Making Art In My Dreams
