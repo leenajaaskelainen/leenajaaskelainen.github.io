@@ -22,6 +22,9 @@ img {
   // @extend .img-fluid, .mx-auto, .d-block;
   max-height: 100vh;
 }
+table {
+  margin-bottom: 1rem;
+}
 thead {
   display: none
 }
