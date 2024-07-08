@@ -11,6 +11,14 @@ What do artists dream about? Repressed androids, panthers in trees, walking mush
 
 Making Art In My Dreams is an animated documentary experience featuring three ambitious artists, Arina Baranova, Dorina Owindi and Susanna Viljanmaa. In virtual reality, almost like in someone else’s dream!
 
+![Making Art In My Dreams](X3sybBEy.jpeg){: .img-fluid}
+
+![Making Art In My Dreams](EKvpUCL9.jpeg){: .img-fluid}
+
+![Making Art In My Dreams](TQ0IJqTH.jpeg){: .img-fluid}
+
+Chappe photos: Ahmed Alalousi
+
 ![Making Art In My Dreams](MAIMD_image1.jpg){: .img-fluid}
 
 ![Making Art In My Dreams](MAIMD_image2.jpg){: .img-fluid}
